@@ -1,0 +1,8 @@
+!.*.js
+!.bin/
+package-lock.json
+**/coverage/**
+**/tmp/**
+**/logs/**
+**/dist/**
+**/docs/**
